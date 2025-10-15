@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "carbonr"]
 	path = carbonr
-	url = https://github.com/cran/carbonr
+	url = https://github.com/lilyclements/carbonr
 [submodule "openappr"]
 	path = openappr
 	url = https://github.com/cran/openappr
