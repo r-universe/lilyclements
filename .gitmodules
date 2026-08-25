@@ -8,3 +8,6 @@
 [submodule "openappr"]
 	path = openappr
 	url = https://github.com/cran/openappr
+[submodule "rpivotTable"]
+	path = rpivotTable
+	url = https://github.com/cran/rpivotTable
